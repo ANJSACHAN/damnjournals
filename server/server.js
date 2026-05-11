@@ -20,6 +20,7 @@ const allowedOrigins = [
   'https://damnjournals.shop',
   'https://damnjournals.com',
   'https://www.damnjournals.com',
+  'https://damn-journals.vercel.app',
   
 ];
 
